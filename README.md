@@ -1,5 +1,5 @@
 # ESP32-WROOM-32D 16MB
-### How to take advantage on the 16MB Flash with the Arduino IDE on the ESP32-WROOM-32D 16MB
+#### How to take advantage on the 16MB Flash with the Arduino IDE on the ESP32-WROOM-32D 16MB
 
 ESP32-WROOM-32D 16MB Flash Memory Wi-Fi+BT+BLE ESP32 Module Espressif
 
@@ -39,6 +39,7 @@ User2_large_app_16MB.csv
 
 
 # Special thanks to M5Stack Fire support. 
-## The original article this is based on can be found here:
+### The original article this is based on can be found here:
 HOWTO: M5Stack Fire - use the full 16MB with the Arduino IDE (UPDATED)
+
 http://forum.m5stack.com/topic/364/howto-m5stack-fire-use-the-full-16mb-with-the-arduino-ide-updated
