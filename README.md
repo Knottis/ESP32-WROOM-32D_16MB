@@ -19,9 +19,9 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 
 
 
-# You need to make some minor changes to the BOARDS.TXT file that you find here in Windows
+# You need to make some minor changes to the BOARDS.TXT located her in Windows
 
-C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\boards.txt
+    C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\boards.txt
 
 #### 1. Change to these values WHEN USE ESP32 - 16MB FLACH
 
@@ -42,7 +42,7 @@ esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
 
 #### 3. Then copy these two files to this location:
 
-C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
+    C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
 
 User1_large_spiffs_16MB.csv
 
