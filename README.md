@@ -7,7 +7,7 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 ![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/ESP32-WROOM-32D-16MB.png "ESP32-WROOM-32D 16MB")
 
 
-![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/ESP32-WROOM-32D-16MB.png "ESP32-WROOM-32D 16MB")
+![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/Arduino_IDE_16MB.png "Arduino IDE")
 
 You need to make some minor changes to the BOARDS.TXT file that you find here in Windows-10.
 
@@ -37,5 +37,4 @@ esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
 C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
 
 User1_large_spiffs_16MB.csv
-
 User2_large_app_16MB.csv
