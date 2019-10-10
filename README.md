@@ -34,4 +34,5 @@ esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
 C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
 
 User1_large_spiffs_16MB.csv
+
 User2_large_app_16MB.csv
