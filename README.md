@@ -13,16 +13,13 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 
 C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\boards.txt
 
-1.	#### Change to these values:
-
-
-WHEN USE OF THE ESP32 - 16MB FLACH
+### 1. Change to these values WHEN USE OF THE ESP32 - 16MB FLACH
 
 esp32.upload.maximum_size=6553600
 esp32.upload.maximum_data_size=4521984
 
 
-2.	#### Insert this after the last esp32.menu.PartitionScheme :
+### 2. Insert this after the last:   esp32.menu.PartitionScheme
 
 
 esp32.menu.PartitionScheme.large_spiffs=16MB Flash (4.5MB APP, OTA, 7MB SPIFFS)
@@ -32,10 +29,9 @@ esp32.menu.PartitionScheme.large_app_user2=16MB Flash (6.5MB APP, OTA, 3.6MB SPI
 esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
 
 
-3.	####Then copy these two files to this location:
+### 3. Then copy these two files to this location:
 
 C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
 
 User1_large_spiffs_16MB.csv
-
 User2_large_app_16MB.csv
