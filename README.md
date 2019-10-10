@@ -36,3 +36,9 @@ C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\
 User1_large_spiffs_16MB.csv
 
 User2_large_app_16MB.csv
+
+
+### Special thanks to M5Stack Fire support. 
+#### The original article this is based on can be found here:
+HOWTO: M5Stack Fire - use the full 16MB with the Arduino IDE (UPDATED)
+http://forum.m5stack.com/topic/364/howto-m5stack-fire-use-the-full-16mb-with-the-arduino-ide-updated
