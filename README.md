@@ -1,10 +1,10 @@
 # ESP32-WROOM-32D 16MB
 #### How to take advantage on the 16MB Flash with the Arduino IDE on the ESP32-WROOM-32D 16MB
 
-#### You now have gone get these alternatives in the Arduino IDO
+### You now have gone get these alternatives in the Arduino IDO
 
-    #### 16MB Flash (4.5MB APP, OTA, 7MB SPIFFS)
-    #### 16MB Flash (6.5MB APP, OTA, 3.6MB SPIFFS)
+    16MB Flash (4.5MB APP, OTA, 7MB SPIFFS)
+    16MB Flash (6.5MB APP, OTA, 3.6MB SPIFFS)
 
 ESP32-WROOM-32D 16MB Flash Memory Wi-Fi+BT+BLE ESP32 Module Espressif
 
