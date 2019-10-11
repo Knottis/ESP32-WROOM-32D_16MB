@@ -25,8 +25,10 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 
 #### 1. Change to these values WHEN USE ESP32 - 16MB FLACH
 
+    ########################################
     esp32.upload.maximum_size=6553600
     esp32.upload.maximum_data_size=4521984
+    ########################################
 
 
 #### 2. Insert this after the last:   esp32.menu.PartitionScheme
