@@ -14,7 +14,8 @@
 ### ESP32-WROOM-32D 16MB Flash Memory Wi-Fi+BT+BLE ESP32 Module Espressif
 
 ![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/ESP32-WROOM-32D-16MB.png "ESP32-WROOM-32D 16MB")
-[ESP32-WROOM-32D 16MB](https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7dd1rx2THI&algo_pvid=2799c7c0-98af-443c-8d42-1e27a715c0b7&algo_expid=2799c7c0-98af-443c-8d42-1e27a715c0b7-2&btsid=cbf62f6b-63e6-4825-90da-d31621b76eda&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_60)
+
+[Purchased from www.aliexpress.com ESP32-WROOM-32D 16MB](https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7dd1rx2THI&algo_pvid=2799c7c0-98af-443c-8d42-1e27a715c0b7&algo_expid=2799c7c0-98af-443c-8d42-1e27a715c0b7-2&btsid=cbf62f6b-63e6-4825-90da-d31621b76eda&ws_ab_test=searchweb0_0,searchweb201602_3,searchweb201603_60)
 
 
 
