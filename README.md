@@ -42,7 +42,7 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 
     C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
    
-#####  Copy these tow Partitions files
+#####  Copy these tow partitions files
  
     User1_large_spiffs_16MB.csv
     User2_large_app_16MB.csv
