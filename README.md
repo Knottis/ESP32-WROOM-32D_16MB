@@ -53,5 +53,5 @@
 
 ## Special thanks to M5Stack Fire support 
 ### The original article this is based on can be found here
-HOWTO: M5Stack Fire - use the full 16MB with the Arduino IDE (UPDATED)
-http://forum.m5stack.com/topic/364/howto-m5stack-fire-use-the-full-16mb-with-the-arduino-ide-updated
+[HOWTO: M5Stack Fire - use the full 16MB with the Arduino IDE (UPDATED)]
+(http://forum.m5stack.com/topic/364/howto-m5stack-fire-use-the-full-16mb-with-the-arduino-ide-updated)
