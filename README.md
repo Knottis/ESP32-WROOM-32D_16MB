@@ -38,11 +38,11 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
     esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
 
 
-#### 3. Then copy these two files to this location:
+#### 3. Then copy the two new Partitions-files to this location
 
     C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.4\tools\partitions
    
-#####  Copy this file:
+#####  Copy these tow Partitions files
  
     User1_large_spiffs_16MB.csv
     User2_large_app_16MB.csv
