@@ -25,19 +25,23 @@ https://www.aliexpress.com/item/33058728181.html?spm=a2g0o.productlist.0.0.491c7
 
 #### 1. Change to these values WHEN USE ESP32 - 16MB FLACH
 
-    ########################################
+    ##############################################################
+    ###          WHEN USE OF THE ESP32 - 16MB FLACH            ###
+    ##############################################################
     esp32.upload.maximum_size=6553600
     esp32.upload.maximum_data_size=4521984
-    ########################################
+    ##############################################################
 
 
 #### 2. Insert this after the last:   esp32.menu.PartitionScheme
 
+    ####################################################################################
     esp32.menu.PartitionScheme.large_spiffs=16MB Flash (4.5MB APP, OTA, 7MB SPIFFS)
     esp32.menu.PartitionScheme.large_spiffs.build.partitions=User1_large_spiffs_16MB
     esp32.menu.PartitionScheme.large_spiffs.upload.maximum_size=4685824
     esp32.menu.PartitionScheme.large_app_user2=16MB Flash (6.5MB APP, OTA, 3.6MB SPIFFS)
     esp32.menu.PartitionScheme.large_app_user2.build.partitions=User2_large_app_16MB
+    ####################################################################################
 
 
 #### 3. Then copy the two new Partitions-files to this location
