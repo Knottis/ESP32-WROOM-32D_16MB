@@ -54,11 +54,11 @@
     esp32.menu.PartitionScheme.large_app_user4.upload.maximum_size=16672736
     
 
-#### 3. Then copy the two new Partition-files to this location
+#### 3. Then copy the four new Partition-files to this location
 
     C:\Users\XXXX\AppData\Local\Arduino15\packages\esp32\hardware\esp32\1.0.6\tools\partitions
    
-#####  Copy these two partitions files :
+#####  Copy these four partitions files :
  
     User1_large_spiffs_16MB.csv
     User2_large_app_16MB.csv
