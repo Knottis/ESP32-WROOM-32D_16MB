@@ -7,8 +7,7 @@
     16MB-3 => 16MB Flash (8.2MB APP, OTA, 1MB SPIFFS)
     16MB-MAX => 16MB Flash (16MB APP, 1MB SPIFFS)
 
-1. Set in this path at Arduino Preferences/Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json  
-2. Then Select the 1.0.6 version.
+
 
 
 ![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/Arduino_IDE_16MB.png "Arduino IDE")
@@ -23,6 +22,8 @@
 
 
 
+# 1. Set in this path at Arduino Preferences/Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json  
+# 2. Then Select the 1.0.6 version.
 
 # You need to make some minor changes to the BOARDS.TXT located her in Windows
 
