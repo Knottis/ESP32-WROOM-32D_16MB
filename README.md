@@ -24,7 +24,7 @@
 
 # Start by inserting this into the "Arduino Boards Manger URLs".
 #### 1. Set in this path at "Arduino Preferences" => Boards Manager URLs:   https://dl.espressif.com/dl/package_esp32_index.json  
-#### 2. Then install this version 1.0.6 version in the "Boards Manager" (not Ver. 2.x.x).
+#### 2. Then install the Version 1.0.6 at the "Boards Manager" (not Ver. 2.x.x).
 
 # You need to make some minor changes to the BOARDS.TXT located her in Windows
 
