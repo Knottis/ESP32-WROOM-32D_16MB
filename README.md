@@ -1,13 +1,15 @@
 # ACCESS TO 16MB FLASH ON ESP32-WROOM-32 16MB
 #### How to take advantage on the 16MB Flash with the Arduino IDE on the ESP32-WROOM-32D 16MB
-## Arduino Preferences/Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json   => Ver.1.0.6
 ### You now gone get these alternatives in your Arduino IDO
 
     16MB-1 -> 16MB Flash (4.5MB APP, OTA, 7MB SPIFFS)
     16MB-2 -> 16MB Flash (6.5MB APP, OTA, 3.5MB SPIFFS)
     16MB-3 => 16MB Flash (8.2MB APP, OTA, 1MB SPIFFS)
     16MB-MAX => 16MB Flash (16MB APP, 1MB SPIFFS)
-    
+
+1. Set in this path at Arduino Preferences/Boards Manager URLs: https://dl.espressif.com/dl/package_esp32_index.json  
+2. Then Select the 1.0.6 version.
+
 
 ![alt text](https://github.com/Knottis/ESP32-WROOM-32D_16MB/blob/master/Arduino_IDE_16MB.png "Arduino IDE")
 
